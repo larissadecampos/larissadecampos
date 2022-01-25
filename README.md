@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello I'm Larissa de Campos! ✨
 
-<!--
-**larissadecampos/larissadecampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Full Stack developer <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" />
+- 🌱 I'm learning about <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" />
+- 📫 How to reach me: larissadecampos2@gmail.com
+- 😄 Pronouns: she/her
 
-Here are some ideas to get you started:
+![gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="http://github.com/larissadecampos">
+  <img height="180em" src="http://github-readme-stats.vercel.app/api?username=larissadecampos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissadecampos&layout=compact&langs_count=16&theme=dark"/>
+</div>
+  
+  
+ ![Snake animation](https://github.com/Matth998/Matth998/blob/output/github-contribution-grid-snake.svg)
