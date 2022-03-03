@@ -12,6 +12,10 @@
   <img height="180em" src="http://github-readme-stats.vercel.app/api?username=larissadecampos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissadecampos&layout=compact&langs_count=16&theme=dark"/>
 </div>
+
   
-  
+</div>
+<p align="center">  </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/larissadecampos/count.svg" /></p>
+                                     
  ![Snake animation](https://github.com/larissadecampos/larissadecampos/blob/output/github-contribution-grid-snake.svg)
