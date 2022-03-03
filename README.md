@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on Full Stack developer <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" />
 - 🌱 I'm learning about programming logic and Java.
-- 📫 How to reach me: larissadecampos2@gmail.com
-- 😄 Pronouns: she/her
+- ✉ larissadecampos2@gmail.com
+-🦄 Pronouns: she/her
 
 ![gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
