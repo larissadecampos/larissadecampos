@@ -15,13 +15,11 @@ Hello I'm Larissa de Campos!✨
 
 <p align="center">  
   <a href="http://github.com/larissadecampos">
-  <img align="left" height="120em" src="http://github-readme-stats.vercel.app/api?username=larissadecampos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="right"height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissadecampos&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" height="120em" src="http://github-readme-stats.vercel.app/api?username=larissadecampos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="center"height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissadecampos&layout=compact&langs_count=16&theme=dracula"/>
 </p>    
-</div>
-<row>
 
-<br><h1><p align="center"></h1><p align="center"></br>
+<row>
 
 <br> <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/> 
