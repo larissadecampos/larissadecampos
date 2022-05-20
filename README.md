@@ -5,7 +5,7 @@
  ```
 Hello I'm Larissa de Campos!✨ 
 
-🔭 I’m currently working on Full Stack developer.  
+🔭 I'm currently working Full Stack and Backend developer.
 🌱 I'm learning about programming logic and Java.
 ✉ larissadecampos2@gmail.com
 🦄 Pronouns: she/her
