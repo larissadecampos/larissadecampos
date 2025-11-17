@@ -3,12 +3,12 @@
 <div>
   
  ```
-Hello I'm Larissa de Campos!✨ 
+Hello, I'm Larissa de Campos! ✨  
 
-🔭 I'm currently working Backend developer.
-🌱 I'm learning about programming logic and Java.
-✉ larissadecampos2@gmail.com
-🦄 Pronouns: she/her
+🔭 Currently working as a Backend Developer  
+🌱 Learning programming logic and mastering Java  
+✉ Contact: larissadecampos2@gmail.com  
+🦄 Pronouns: she/her  
 
 ```
  
